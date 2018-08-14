@@ -1,0 +1,25 @@
+# Machine Learning Algorithm for Chocolate Bars' ratings
+
+## Data cleaning 
+
+* python file's name: SVM
+
+A. This files is for data pre-processing. 
+1. Alignment the naming way of the categorical variables.
+2. transform the input data of "Bean percentage" into numerical type
+
+B In the last part of this file, SVM model is introduced to solve the problem of missing data.
+
+
+## Decision Tree Modeling 
+
+A file named ENTROPY is DT with entropy
+1.prepare data sheet
+2.set up DT model
+3 check result with accuracy and DT picture  
+
+B file named GINI is DT with gini
+1.prepare data sheet
+2.set up DT model
+3 check result with accuracy and DT picture  
+
